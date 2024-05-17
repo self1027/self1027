@@ -3,8 +3,8 @@
     Desenvolvedora em processo de aprendizagem. Estou me descobrindo e me aperfeiçoando na área de programação. <br><br>
     🔭 Atualmente, estou desenvolvendo projetos pessoais para colocar em prática e melhorar minhas habilidades como programadora.
   </p>
+   <img src="https://github.com/eduardavieira-dev/eduardavieira-dev/assets/159597766/9a2ee636-ff08-4f7b-9904-80fbd926151e" alt="ezgif com-animated-gif-maker (1)" width="250px" style="margin-left: 20px;">
   
-  <img src="https://github.com/eduardavieira-dev/eduardavieira-dev/assets/159597766/daf27f2a-9f20-44f1-9b25-3743db037398" alt="ezgif com-animated-gif-maker" width="300px" style="margin-left: 20px;">
 
 
 ## Sobre mim
