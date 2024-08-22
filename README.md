@@ -10,8 +10,8 @@
 ## Sobre mim
 
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🖥️ Cursando tecnico em Desenvolvimento de Sistema.
-- 🎓 No próximo semestre estudarei Engenharia de Software na PUC.
+- 🖥️ Técnica em Desenvolvimento de Sistema.
+- 🎓 Sou graduanda em Engenharia de Software na PUC.
 - 🌱 Aprendendo mais sobre JavaScript.
 
 ---
