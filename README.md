@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é Eduarda!
+## 💜 Olá, eu sou a Eduarda!
   <p align="left">
     Desenvolvedora em processo de aprendizagem. Estou me descobrindo e me aperfeiçoando na área de programação. <br><br>
     🔭 Atualmente, estou desenvolvendo projetos pessoais para colocar em prática e melhorar minhas habilidades como programadora.
@@ -13,6 +13,7 @@
 - 🖥️ Técnica em Desenvolvimento de Sistema.
 - 🎓 Sou graduanda em Engenharia de Software na PUC.
 - 🌱 Aprendendo mais sobre JavaScript.
+- ❤️ Tenho um studygram e sempre estou postando dicas sobre a area e incentivando dev's
 
 ---
 
@@ -25,21 +26,15 @@
 
 ## Tecnologias 💻
 
-<div style="display: inline_block"><br/>
-<img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,mysql,git,github,figma,vscode)](https://skillicons.dev)
 
 
 
-</div><br>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Atualmente faço um curso técnico de Desenvolvimento de sistemas. <strong>Estudo, no momento, mais o front-end</strong>.<br>
-  Porém também me interesso em aprender o back-end futuramente.
+  Sou formada no curso técnico de Desenvolvimento de Sistemas pelo SENAI. <strong>No momento, estou no primeiro periodo de Engenharia de Software</strong>.<br>
+  Tenho me aprimorado na linguagem C e aprofundado meus estudos no JS e front-end. Também tenho desenvolvido projetos e trabalhos da faculdade e alguns para o meu protifolio em desenvolvimento.
 </p>
 
 <p align="left">
@@ -57,7 +52,7 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-<br/>
+
 </p>
 
 <p align="left">
