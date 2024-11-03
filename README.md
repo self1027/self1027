@@ -1,6 +1,6 @@
-<img width=100% height=120% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7B2CBF,100:10002B"/>
 
-## 💜 Olá, eu sou a Eduarda!
+
+# 💜 Olá, eu sou a Eduarda!
   <p align="left">
     Desenvolvedora em processo de aprendizagem. Estou me descobrindo e me aperfeiçoando na área de programação. <br><br>
     🔭 Atualmente, estou desenvolvendo projetos pessoais para colocar em prática e melhorar minhas habilidades como programadora.
@@ -70,5 +70,5 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
 
-
+<!-- <img width=100% height=120% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7B2CBF,100:10002B"/>-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
