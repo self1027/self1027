@@ -1,6 +1,6 @@
 # Olá! Eu sou o Murilo D. 👋
 
-💻 **Desenvolvedor Full Stack** | **Node.js**, **Express**, **MongoDB**, **Java**, **Android**  
+💻 **Desenvolvedor BackEnd** | **Node.js**, **Express**, **MongoDB**, **Java**, **Android**  
 🚀 **Apaixonado por tecnologia** e sempre em busca de aprender novas ferramentas e soluções inovadoras.  
 🎯 **Entusiasta de código limpo** e **boas práticas de desenvolvimento**. Focado em criar soluções eficientes e escaláveis.
 
