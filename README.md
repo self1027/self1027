@@ -1,21 +1,16 @@
-
-
 # 💜 Olá, eu sou a Eduarda!
-  <p align="left">
-    Desenvolvedora em processo de aprendizagem. Estou me descobrindo e me aperfeiçoando na área de programação. <br><br>
-    🔭 Atualmente, estou desenvolvendo projetos pessoais para colocar em prática e melhorar minhas habilidades como programadora.
-  </p>
-<!--   <img src="https://github.com/eduardavieira-dev/eduardavieira-dev/assets/159597766/5dfea601-83ec-4a48-9f70-b922d6043049" alt="download20240505154311" width="250px" style="margin-left: 20px;"> -->
-
-
+<p align="left">
+  Desenvolvedora em formação, comprometida a criar soluções modernas, funcionais e com propósito. <br>
+ Tenho focado meus estudos em <strong>Node.js</strong> e <strong>React</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Engenharia de Software.
+</p>
 
 ## Sobre mim
 
+- 🖥️ Técnica em Desenvolvimento de Sistemas pelo SENAI
+- 🎓 Graduanda em Engenharia de Software na PUC
+- 📚 Estudando JavaScript, Node.js, React, e desenvolvimento fullstack
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🖥️ Técnica em Desenvolvimento de Sistema.
-- 🎓 Sou graduanda em Engenharia de Software na PUC.
-- 🌱 Aprendendo mais sobre JavaScript.
-- ❤️ Tenho um studygram e sempre estou postando dicas sobre a area e incentivando dev's
+- ❤️ Tenho um [studygram](https://www.instagram.com/eduardavieira.dev?igsh=MTIzbGJ6YjN0dHoyYw%3D%3D&utm_source=qr) e sempre estou postando dicas sobre a área e incentivando dev's
 
 ---
 <br>
@@ -36,40 +31,43 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardavieira-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardavieira-dev&layout=compact&langs_count=6&theme=radical"/>
 
+## 📚 Meus estudos
+Organizo meus aprendizados e anotações em uma organização separada no GitHub chamada [eduardavieira-study](https://github.com/eduardavieira-study).  
+Lá você encontra repositórios com resumos, desafios resolvidos, anotações de cursos e projetos de estudo contínuo.
 
-## Tecnologias 💻
+> Manter esse espaço me ajuda a acompanhar minha evolução e, quem sabe, também ajudar outros devs iniciantes 💜
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,mysql,git,github,figma,vscode)](https://skillicons.dev)
+
+
+
+## Tecnologias e linguagens 💻
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,java,docker)](https://skillicons.dev)
+
+### 🚀 Frameworks e bibliotecas
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,vite,spring,mysql,postgres)](https://skillicons.dev)
+
+### 🛠️ Ferramentas de desenvolvimento
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman)](https://skillicons.dev)
 
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou formada no curso técnico de Desenvolvimento de Sistemas pelo SENAI. <strong>No momento, estou no primeiro periodo de Engenharia de Software</strong>.<br>
-  Tenho me aprimorado na linguagem C e aprofundado meus estudos no JS e front-end. Também tenho desenvolvido projetos e trabalhos da faculdade e alguns para o meu protifolio em desenvolvimento.
+  Sou formada como <strong>Técnica em Desenvolvimento de Sistemas</strong> pelo SENAI e atualmente curso o <strong>3º período de Engenharia de Software</strong> na PUC Minas. <br><br>
+  Tenho me aprofundado em <strong>JavaScript</strong>, com foco em <strong>React.js</strong> para o front-end e <strong>Node.js</strong> para o back-end. Também venho explorando tecnologias como <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>PostgreSQL</strong>, <strong>MySQL</strong> e <strong>Docker</strong>, aplicando esses conhecimentos em projetos acadêmicos e pessoais que fazem parte do meu portfólio. <br><br>
+  Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
 </p>
 
-<p align="left">
-  
 
-
-</p>
 
 <p align="left">
-
- **💼 Ferramentas de desenvolvimento:**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
 
 </p>
 
 <p align="left">
-  💌 Me encontre em outras redes! ⤵️
+  Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn ou confira meu conteúdo no Instagram! 💌✨
 </p>
 
 <p align="left">
@@ -89,12 +87,9 @@
   
   [![Eduarda Vieira's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eduardavieira-dev&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
- <!--  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardavieira-dev&theme=dracula&radius=12&area=true" height="249" alt="activity-graph graph"  />-->
   <img src="https://streak-stats.demolab.com?user=eduardavieira-dev&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=eduardavieira-dev&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
 </div>
 
 
-
-<!-- <img width=100% height=120% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7B2CBF,100:10002B"/>-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
