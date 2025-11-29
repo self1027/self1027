@@ -56,14 +56,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=self1027.self1027&left_color=blueviolet&right_color=indigo" width="80" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=self1027&bg_color=0d1117&color=6e40c9&line=a33cf0&point=ffffff&area=true&hide_border=true"/>
-  <img src="https://streak-stats.demolab.com?user=self1027&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=self1027&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6e40c9,100:000000"/>
-
 ---
 
 <sub>📝 Baseado no template de [@eduardavieira-dev](https://github.com/eduardavieira-dev), com adaptações.</sub>
