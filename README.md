@@ -16,15 +16,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<a href="https://github.com/self1027">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=self1027&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=self1027&layout=compact&langs_count=6&theme=radical"/>
-</a>
-
----
-
 ## 💻 Tecnologias e Linguagens
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,docker,postgres,mysql)](https://skillicons.dev)
