@@ -1,57 +1,15 @@
-# Murilo D.
+## Olá 👋
 
-### Backend Developer
+Sou o [Murilo](https://murilod.dev), desenvolvedor backend e às vezes fullstack.
 
-Node.js 
+Trabalho principalmente Node.js construindo APIs, sistemas em tempo real e automações. 
 
-Especialista em **Node.js** focado em arquiteturas escaláveis, automação de processos e infraestrutura Cloud (AWS/GCP). Desenvolvi sistemas que reduziram o tempo de resposta operacional em **95%**.
+Já desenvolvi diversos projetos, mas o meu favorito é o [Livro](https://github.com/self1027/Livro),  um sistema interno para a Vigilância Sanitária que reduziu consultas de minutos para segundos.
 
----
+Minha stack gira em torno de Node.js com Express, gosto muito de trabalhar com WebSockets.
 
-### Tech Stack
+**Contato:**
 
-* **Linguagens:** Node.js (ES6+), JavaScript.
-
-
-*  **Frameworks/APIs:** Express.js, RESTful, WebSockets, WebRTC.
-
-
-* **Dados:** PostgreSQL, MySQL, MongoDB.
-
-
-* **Infra & DevOps:** AWS (EC2), Docker, CI/CD, Linux, MikroTik, Nginx.
-
-
-* **Mídia:** FFmpeg, Google/Vosk (STT).
-
-
----
-
-### Destaques
-
-* **[Sistema de Gestão (Vigilância Sanitária)](https://livro.murilod.dev/):** Informatização completa de fluxos, com ganho de +90% em produtividade. Redução de consultas críticas de 5 minutos para 10 segundos.
-
-
-* **[Integra (TCC)](https://integra.murilod.dev/):** Plataforma de acessibilidade com tradução em tempo real para Libras via avatar 3D.
-
-
-
----
-
-### Formação
-
-* **Engenharia da Computação** – UniSALESIANO (Dez/2026).
-
-
----
-
-### Contato
-
-* **Portfólio:** https://murilod.dev 
-
-
-* **Email:** diasmurilo02@gmail.com 
-
-
-* **Local:** Andradina, SP 
-
+* LinkedIn: [linkedin.com/murilo-dias-dev/](https://www.linkedin.com/in/murilo-dias-dev/)
+* Email: diasmurilo02@gmail.com 
+* Local: Andradina, SP 
