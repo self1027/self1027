@@ -1,6 +1,6 @@
 <picture>
   <source media="(max-width: 600px)" srcset="assets/header-mobile.svg">
-  <img src="assets/header.svg" alt="Murilo Dias — Backend e APIs" width="640">
+  <img src="assets/header.svg" alt="Murilo Dias — Backend e APIs" width="1280">
 </picture>
 
 <p>
